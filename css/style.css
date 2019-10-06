@@ -1,0 +1,13 @@
+section{
+	border: 5px solid black;
+}
+
+.box{
+	height: 100px;
+	background-color: red;
+	margin-bottom: 10px;
+
+}
+.green{
+	background-color: #169F5C;
+}
